@@ -5,7 +5,7 @@ The game is implemented in JAVA with GUI using AlphaBeta algorithm.
 The whole idea of the heuristic function used is to calculate how far both of them from one of the possible places of the goal depending on the calculated index. 
 If differnce between aiSum and playerSum negative, it's good for the player. Otherwise it's good for AI. 
 
-## GUI: 
+## GUI
 Game starts with the player choosing which color to play with then choosing from the 3 difficulty modes (Hard [depth:5]) - Medium([depth:3]) - Easy([depth:1])).
 Player choosen color is in the bottom of the window.
 AI color is automatically set the other color and it is on the opposite side of the player (top).
