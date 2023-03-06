@@ -1,5 +1,5 @@
 # CHINESE-CHECKER-GAME
-The game is implemented in JAVA with GUI using AlphaBeta algorithm. 
+The game is implemented in JAVA with GUI using AlphaBeta algorithm. It is a PC vs Player game. 
 
 ## Heuristic Function
 The whole idea of the heuristic function used is to calculate how far both of them from one of the possible places of the goal depending on the calculated index. 
